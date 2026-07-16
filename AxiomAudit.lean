@@ -1,0 +1,7 @@
+import TuDengFormal.FirstExitNat
+
+#check TuDeng.FirstExit.tu_deng_conjecture_full
+#print axioms TuDeng.FirstExit.cross_boundary_halfplane_bound
+#print axioms TuDeng.FirstExit.cyclicInputCount_bound_of_nonconstant
+#print axioms TuDeng.FirstExit.tuDengCount_eq_cyclicInputCount
+#print axioms TuDeng.FirstExit.tu_deng_conjecture_full

@@ -1,0 +1,8 @@
+# Lean 4 build outputs
+/.lake/
+/build/
+*.olean
+
+# Editor / OS noise
+.DS_Store
+*~
